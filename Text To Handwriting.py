@@ -3,7 +3,7 @@ from PIL import Image
 from sys import argv
 
 
-# if you'd rather not use the command line, put the path to your file here
+
 fileName = "dummy.txt" # path of your text file
 
 # read file that user wants converted from command line. If file can't be read, assign 

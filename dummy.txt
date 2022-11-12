@@ -1,7 +1,6 @@
-Deep learning is an artificial intelligence function that imitates the workings of the
-human brain in processing data and creating patterns for use in decision making.
- Deep learning is a subset of machine learning in artificial intelligence (AI) that has
- networks capable of learning unsupervised from data that is unstructured or unlabeled.
- Also known as deep neural learning or deep neural network.
-
-
+Indian Institute of Information Technology, Kottayam at Valavoor,
+Pala, Kerala is one among the IIITs that have been established 
+as Institutions of National Importance by Ministry of Education, Govt. of India under the ambit of IIIT (PPP) Act 2017.
+IIIT Kottayam campus is situated at Valavoor, Pala, Kottayam - 
+a picturous location, spread over in 53 acres of land -
+allotted by Govt. of Kerala in the southern part of the state commonly referred to as Gods Own Country.
